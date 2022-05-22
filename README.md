@@ -16,7 +16,7 @@
 
 [[E-commerce Website Screen Shot]](https://drive.google.com/file/d/1dUY3PhZJAie04Zft5pTj4dCTLYKThEBi/view?usp=sharing)
 
-There are many great food ordering website designs, however , I didn't findone that really satisfies me so I created this enhanced one. I want to create a food ordering website so amazing that it'll be the last one you ever need --  I think this is it.
+There are many great E-commerce website designs, however , I didn't find any that really satisfies me so I created this enhanced one. I want to create a E-commerce website so amazing that it'll be the last one you ever need --  I think this is it.
 
 Here's why:
 * Your time should be focused on main elements of the website and the one shoud not be confused on what to explore on the website. A project that solves a problem and helps others
