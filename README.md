@@ -14,7 +14,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[[E-commerce Website Screen Shot]](https://doc-14-64-docs.googleusercontent.com/docs/securesc/a00qrt12i3dvi959eth29tr83av6l51p/bpirc42j579473l8h1kmmfdse7otsb36/1653226200000/12746590281896046166/12746590281896046166/1dUY3PhZJAie04Zft5pTj4dCTLYKThEBi?e=download&ax=ACxEAsZWX6-zEvuaKHOluaYO5ixgAjy7TtGtiYZjS6Zl1MCDp_MpBpvmy0wxXjvImU2B6U2i5y5p25EPlHk7nMUcKZGT-XRkjpg_hlY6SxCZPl91QMmMdZXdJBc7O_ourFvB1DVd9wcwqTzv_ef8suPIIOO9RyxEPuXTIDGj_tluWNngCWTdEcHm0ztPqq_Fii0MIXIZwt2TGJwTeZvkBRMLcOtMe8dN_ZK1ERe4vFQ60Wl11knZF65CwM3gzHRgV3DRC9ueVvnbG907kBiUKn4VAC84QwovIsMRm50nWrj56YQBKt1cqAo4FsSJw2dEntykrot2vxJo6NvxwJQ7zq8bqq857M-Ln6MJgio9JSe3MY5SaFnPZtcIA5iD8vFkEDmIHfpPNmbnjOjLCgpL5yVNPmVVP2JG7L11euG7tGRxHw6BX7DKGISq_gAO077pG-n_-gwzuoy57AIFmtXJfjQt2YsJjp7wkmORSFaQBTnb70WH7iCfTn7uPOr9azrvhop_B1dBQ9LaUVHQHYYM-M2Z_oShizUQVeSBS_k7vWwS8x6pJsojXzspOsu_0vpxawyI1yyV_AGCcwXHng4NbZM0BbTYQmvFoD4ayWadsCGsbWUrbCQyX9YRuGcH7cuzbRYA9tCCalfdFJySM6npC67CkliNZ32CgltfS9TRYaC6mDjIfLiZLth_6Qh0DyMKt8-GoL8BcCFrzisUNKjt4B5aprsQj_0W3ypxkTdRpr9BrZ2WK2y5Ok_jQOeZMqRm9yHRs9HfvmU8fqePhIbu3Dg4&authuser=0&nonce=vbl4uempcl0qg&user=12746590281896046166&hash=7i8jctb4ris2lhcma7uvnkqcl2lh4k1u)
+[[E-commerce Website Screen Shot]](https://drive.google.com/file/d/1dUY3PhZJAie04Zft5pTj4dCTLYKThEBi/view?usp=sharing)
 
 There are many great food ordering website designs, however , I didn't findone that really satisfies me so I created this enhanced one. I want to create a food ordering website so amazing that it'll be the last one you ever need --  I think this is it.
 
